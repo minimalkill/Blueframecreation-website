@@ -101,7 +101,7 @@ header {
 
 .room-card img {
     width: 150%;
-    height: 200px; /* was 120px, makes images taller */
+    height: 120px; /* was 120px, makes images taller */
     padding: 6rem;
     object-fit: center;
 }
@@ -122,3 +122,4 @@ header {
     transform: scale(1.05);
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
 }
+
