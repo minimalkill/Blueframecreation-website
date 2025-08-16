@@ -103,7 +103,7 @@ header {
 .room-card img {
     width: 150%;
     height: 200px;
-    object-fit: cover;
+    object-fit: middle;
 }
 
 .room-card h3 {
